@@ -4,7 +4,11 @@
 - 🌱 I’m currently learning Vue.js
 - 📫 How to reach me ...
 
-<!-- retro visitor counter -->
+<!-- visitor counter -->
+
+<div id="sfc5n9ul93whx3s9plapqcn6fqabyure6gz"></div>
+<script type="text/javascript" src="https://counter7.stat.ovh/private/counter.js?c=5n9ul93whx3s9plapqcn6fqabyure6gz&down=async" async></script>
+<br><a href="https://www.freecounterstat.com">free website hit counters</a><noscript><a href="https://www.freecounterstat.com" title="free website hit counters"><img src="https://counter7.stat.ovh/private/freecounterstat.php?c=5n9ul93whx3s9plapqcn6fqabyure6gz" border="0" title="free website hit counters" alt="free website hit counters"></a></noscript>
 
 <!---
 JAlberto-Coder/JAlberto-Coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
