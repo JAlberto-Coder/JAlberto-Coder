@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Vue.js
 - 📫 How to reach me ...
 
-<p align="ccenter">
+<p align="center">
   <img src="https://profile-counter.glitch.me/JAlberto-Coder/count.svg" />
 </p>
 <!---
