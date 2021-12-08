@@ -16,16 +16,17 @@
 	I like to provide optimal technology solutions, validating that the usability, integrity and speed of the system comply with the established parameters.
 </p>
 
-<h2>My qualities are ...</h2>
+<h2 align="left">My qualities are ...</h2>
+
 - 📫 Constancy
 - 👀 Focus
 - 🌱 Honesty
 - 🙌 Responsibility
 - 😜 Practic sense
 - 👍 Proactivity
-<p></p>
 
-<h2>I’m interested in ...</h2>
+<h2 align="left">I’m interested in ...</h2>
+
 - ❤️ Athletics
 - 🏋️‍ Calisthenics
 - 📽 Cinema
@@ -35,7 +36,8 @@
 - 🖥 Technology
 - 🐿 Squirrels
 
-<h2>My most used languages ...</h2>
+<h2 align="left">My most used languages ...</h2>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JAlberto-Coder&theme=radical)
 
 <p align="center">
